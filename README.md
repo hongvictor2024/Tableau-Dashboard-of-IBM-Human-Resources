@@ -1,3 +1,6 @@
+** Screenshot of Project for Ease of Viewing: **
+[IBM HR Monitor.pptx](https://github.com/hongvictor2024/Tableau-Dashboard-of-IBM-Human-Resources/files/14259002/IBM.HR.Monitor.pptx)
+
 # Tableau-Dashboard-of-IBM-Human-Resources
  Dashboard Monitors of KPIs of Human Resource Metrics
 
